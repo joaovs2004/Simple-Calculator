@@ -14,3 +14,6 @@ Then run the main program
 ```bash
 $ python3 main.py
 ```
+
+## Screenshot do projeto
+![Imagem do projeto](https://i.postimg.cc/RFxkC0qr/calculator.png "Imagem do projeto")
